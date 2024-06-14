@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "EVE PCB Project")(type "KiCad")(uri "${KIPRJMOD}/EVE PCB Project.pretty")(options "")(descr ""))
-)
